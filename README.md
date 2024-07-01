@@ -1,2 +1,2 @@
 # Python
-Python projects
+GitHub Repo containing python practice projects
